@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Notifications Lab</string>
+    <string name="notify_me">Notify Me!</string>
+    <string name="notification_settings_name">Mascot Notification</string>
+    <string name="notification_settings_description">Notification from Mascot</string>
+    <string name="notification_display_title">You have been notified!</string>
+    <string name="notification_display_text">This is your notification text.</string>
 </resources>
